@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BCABBD86-237D-4515-879E-FD5E3100485E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20FAA5EC-A74B-4BCF-B043-5547AD2010C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4CA2A10-2B23-4E97-A26A-2CBF1DC4315E",
+    "height": 751,
+    "width": 1280,
+    "x": 0,
+    "y": 4713
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "футер",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFB77BAC-7B9C-4B1E-AE0C-4BF3FC174C86",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FAF6B342-9736-46C7-B8A8-0EE5429C90A7",
+  "verticalSpacing": 0
+}
